@@ -1,9 +1,18 @@
 # EWT-get-answer
 获取升学E网通（EWT）选择题答案
 
+[![EWT Killer](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer?color=5d89d2&label=EWT%20Killer)](https://github.com/zhicheng233/EWT-get-answer/releases/latest)
+[![Published at](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer?color=5d89d2&label=Published%20at)](https://github.com/zhicheng233/EWT-get-answer/releases/latest)
+[![GitHub license](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/stargazers)
+[![GitHub forks](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/network/members)
+[![GitHub issues](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/issues)
+
 DL:https://blog.zhicheng233.ml/data/DL/EWT%E9%80%89%E6%8B%A9%E9%A2%98%E7%AD%94%E6%A1%88%E8%8E%B7%E5%8F%96.exe
 
-最近可能会将该软件移植到JS脚本
+~~最近可能会将该软件移植到JS脚本~~由houtarchat移植的js脚本，适用于Tampermonkey® 
+其源码在 [Github](https://github.com/houtarchat-cyber/EWT-get-answer) 
+[Greasy Fork](https://greasyfork.org/zh-CN/scripts/450155)
 
 
 # 如何构建
@@ -27,7 +36,15 @@ Q：为毛我编译出来的报毒了？
 
 A：同上一问答案
 
+Q: 编译提示动态链接失败
+
+A：将VC链接器版本切换到VC8以下
+
 ## ​本程序遵循GPL ( GNU General Public License )开源许可协议，程序仅供学习交流，严禁商用或其他非法用途
+
+## 调用的API
+https://web.ewt360.com/customerApi/api/studyprod/web/answer/quesiton/analysis?questionId=填写&paperId=填写&reportId=填写&platform=填写&bizCode=填写
+PS:questionId需通过旧API获取(https://web.ewt360.com/customerApi/api/studyprod/web/answer/paper?paperId=填写&platform=填写&bizCode=填写&reportId=0&isRepeat=0   作者:solstice23)
 
 ## 核心函数（方法）  方便没有运行环境的开发者调用
 ````#
