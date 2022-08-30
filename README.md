@@ -3,7 +3,7 @@
 
 [![EWT Killer](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer?color=5d89d2&label=EWT%20Killer)](https://github.com/zhicheng233/EWT-get-answer/releases/latest)
 [![Published at](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer?color=5d89d2&label=Published%20at)](https://github.com/zhicheng233/EWT-get-answer/releases/latest)
-[![GitHub license](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/issues)
