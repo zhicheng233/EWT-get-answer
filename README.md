@@ -4,9 +4,9 @@
 [![EWT Killer](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer?color=5d89d2&label=EWT%20Killer)](https://github.com/zhicheng233/EWT-get-answer/releases/latest)
 [![Published at](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer?color=5d89d2&label=Published%20at)](https://github.com/zhicheng233/EWT-get-answer/releases/latest)
 [![GitHub license](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/stargazers)
-[![GitHub forks](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/network/members)
-[![GitHub issues](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/issues)
+[![GitHub stars](https://img.shields.io/github/stars/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/zhicheng233/EWT-get-answer)](https://github.com/zhicheng233/EWT-get-answer/issues)
 
 DL:https://blog.zhicheng233.ml/data/DL/EWT%E9%80%89%E6%8B%A9%E9%A2%98%E7%AD%94%E6%A1%88%E8%8E%B7%E5%8F%96.exe
 
