@@ -1,4 +1,8 @@
 # EWT-get-answer
+
+该项目已移至 https://github.com/zhicheng233/GetEWTAnswers 使用JavaScript重构，重新逆向2025 EWT 相关API
+The project has been moved to https://github.com/zhicheng233/GetEWTAnswers, rewritten in JavaScript, and the 2025 EWT-related APIs have been reverse-engineered again.
+
 获取升学E网通（EWT）选择题答案
 
 [![EWT Killer](https://img.shields.io/github/v/release/zhicheng233/EWT-get-answer?color=5d89d2&label=EWT%20Killer)](https://github.com/zhicheng233/EWT-get-answer/releases/latest)
